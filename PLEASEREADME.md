@@ -1,5 +1,3 @@
-# AP155_Hernandez
-
 # DISCLAIMER
 Some files are too large to view so please click Raw then save (ctrl + s). Add ".ipynb" to the end of the file name (i.e. "Module3.ipynb") since github
 saves them as text files by default. Before opening them on your notebook viewer, rename them again by removing the appended ".txt" at the end of the file name so
