@@ -5,7 +5,7 @@ Some files are too large to view so please do the ff:
 3) Before opening them on your notebook viewer, rename them again by removing the appended ".txt" at the end of the file name so only the ".ipynb" remains
 4) After doing this, you should be able to open and view them properly 
 
-*Please also note that some line coding explanations may be visually obstructed when viewed on github since there is no available scroller unlike in Jupyter Notebook. 
+*Please also note that some line coding explanations may be visually obstructed when viewed on github since there is no available scroller unlike in Jupyter Notebook.* 
 
 With that said, thank you very much for this semester and have a wonderful life ahead of you! :))
 
